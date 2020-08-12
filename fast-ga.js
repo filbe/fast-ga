@@ -1,3 +1,7 @@
+/* Fast-GA - Fast Google Analytics implementation in HTML & JS -based websites and apps
+ * (C) Ville-Pekka Lahti
+ * v0.9 - 12 Aug 2020
+ */
 window.onload = function() {
     if (window.jQuery) {  
         $(document).ready(function() {
